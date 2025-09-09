@@ -18,13 +18,5 @@ Estrutura do Projeto
           - Soma dos salários
           - Cálculo de quantos salários mínimos cada funcionário recebe
 
-Estrutura de Pastas
-  TestePraticoProgramacao/
-      │── src/
-      │   ├── Pessoa.java
-      │   ├── Funcionario.java
-      │   └── Principal.java
-      │── README.md
-
 Autor
 Raphael Moraes
